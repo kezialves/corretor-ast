@@ -1,0 +1,7 @@
+    Laço
+    Condição
+    Laço
+        Laço
+Condição
+    Laço
+    Condição
